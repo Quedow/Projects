@@ -8,5 +8,5 @@
 - [My Game Companion](My%20Game%20Companion/README.md)
 - [WebImagesDownloader](WebImagesDownloader/README.md)
 - [Color Back](Color%20Back/README.md)
-- [LaplacianEdgeDetection](LaplacianEdgeDetection/README.md)
 - [Laser Lyre](Laser%20Lyre/README.md)
+- [LaplacianEdgeDetection](LaplacianEdgeDetection/README.md)
