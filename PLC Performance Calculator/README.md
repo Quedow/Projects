@@ -10,7 +10,7 @@ This project is part of my 2-month internship as an analyst and developer at `De
 
 ## II. Objective
 
-In an environment that experiences around 20,000 breakdowns weekly, not all are independent. Single breakdowns can trigger several others, and even basic maintenance activities can cause disruptions. These breakdowns may also resolve at different times, further complicating their duration assessment. The objective of this internship was:
+In an environment that experiences around 20,000 breakdowns weekly, not all are independent. Single breakdowns can trigger several others, and even basic maintenance activities can cause disruptions. These breakdowns may also resolve at different times, further complicating their duration assessment.
 
 The objective of this internship was:
 - The verification of the reliability of the performance reports given to the Decathlon global warehouse of Rouvignies.
