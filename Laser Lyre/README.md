@@ -14,7 +14,9 @@ The design of the Laser Lyre was created using CAD software and then, 3D printed
 - Play example songs using the application.
 
 <p align="center">
-  <img width="720" alt="Laser Lyre" src="assets/Laser_Lyre_demo.png">
+  <img height="240" alt="Laser Lyre" src="assets/Electric_Circuit.png">
+  <img height="240" alt="Laser Lyre" src="assets/Laser_Lyre_3D.png">
+  <img height="240" alt="Laser Lyre" src="assets/Laser_Lyre_App.png">
 </p>
 
 > #Unity, #IoT (Arduino), #CAD
