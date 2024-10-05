@@ -7,7 +7,7 @@ Download [link](https://github.com/Quedow/projects/releases)
 **Elevating Your Music Experience with Shadow Garden: The Smart Music Player App**
 
 <p align="center">
-  <img width="720" alt="Shadow_Garden" src="assets/Shadow_Garden.png">
+  <img width="256" alt="Page 1" src="assets/Page 1.jpg">
 </p>
 
 ## I. Context
@@ -33,7 +33,8 @@ Say goodbye to endless scrolling through playlists. Shadow Garden offers custom 
 Unleash the power of Shadow Garden's Smart Sort feature, which ranks songs based on your listening statistics. Say farewell to manual sorting and let Shadow Garden do the heavy lifting. With Smart Sort, your music library is dynamically organized according to your preferences, ensuring that your favorite tracks are always within reach.
 
 <p align="center">
-  <img width="720" alt="Shadow_Garden_Features" src="assets/Shadow_Garden_Features.png">
+  <img width="256" alt="Page 2" src="assets/Page 2.jpg">
+  <img width="256" alt="Page 3" src="assets/Page 3.jpg">
 </p>
 
 ## IV. Features details
