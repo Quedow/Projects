@@ -58,6 +58,12 @@ Unleash the power of Shadow Garden's Smart Sort feature, which ranks songs based
 
 > #Flutter, #Music player, #Database, #Smart sort
 
+## V. Roadmap
+
+<p align="center">
+  <img width="720" alt="Page 1" src="assets/Shadow_Garden_Roadmap.jpg">
+</p>
+
 ## V. Project Status
 
 - [X] Work in progress
