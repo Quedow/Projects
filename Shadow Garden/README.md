@@ -1,6 +1,6 @@
 # Shadow Garden
 
-> February to April 2024
+> February 2024 to now
 
 Download [link](https://github.com/Quedow/projects/releases)
 
