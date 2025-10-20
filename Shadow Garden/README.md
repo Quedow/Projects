@@ -66,5 +66,5 @@ Unleash the power of Shadow Garden's Smart Sort feature, which ranks songs based
 
 ## V. Project Status
 
-- [X] Work in progress
-- [ ] Work completed
+- [ ] Work in progress
+- [X] Work completed
