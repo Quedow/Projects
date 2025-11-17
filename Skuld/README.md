@@ -12,14 +12,26 @@ Download [link](https://github.com/Quedow/projects/releases)
 
 ## I. Context
 
-Introducing Skuld, a productivity app to transform your tasks, habits and routines into quests that help you stay motivated and organized. Gamify your life by completing quests to  earn XP, level up, and collect credits. Get upgrades and use your credits in the in-app shop to customize your experience and make the app truly yours.
+Skuld transforms your daily tasks, habits, and routines into a fun RPG-style adventure. Stay motivated, stay organized, and level up your real life by completing quests, earning XP, and collecting credits.
 
-## Features
-- **Tasks:** Prioritize your tasks using the Eisenhower Matrix,
-- **Habits:** Track good and bad habits with counters,
-- **Routines:** Schedule routines and their frequency,
-- **Notifications**: Notified before the deadline for your tasks,
-- **Global note**.
+Unlock cosmetic items through mystery boxes and give your character a look that no one else has. Productivity has never felt this rewarding.
+
+## II. Features
+
+**Tasks**  
+Prioritize what matters using an intuitive Eisenhower Matrix and watch your to-do list become a series of heroic missions.
+
+**Habits**  
+Build good habits and weaken bad ones using counters that feel like stat management in a game.
+
+**Routines**  
+Set recurring routines with flexible frequencies to keep your real-life gameplay consistent.
+
+**Notifications**  
+Get notified before quest deadlines.
+
+**Global note**  
+Keep all your important thoughts in one place.
 
 <p align="center">
   <img width="400" alt="Page 2" src="assets/Page 2.jpg">
